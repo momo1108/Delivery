@@ -1,0 +1,10 @@
+.Navbar {
+    margin: 0;
+    padding: 0;
+}
+.Navlogo {
+    display: inline-block;
+}
+.Navmenu {
+    display: inline-block;
+}

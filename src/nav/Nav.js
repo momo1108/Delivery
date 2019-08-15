@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import './Nav.css';
 
 class Nav extends Component {
     constructor(props){
@@ -11,9 +12,11 @@ class Nav extends Component {
     render(){
         return(
             <div className = "Navbar">
-                <div className = "Navlogo"></div>
+                <div className = "Navlogo">
+                    <img src="logo.png" width="100px"/>
+                </div>
                 <div className = "Navmenu">
-                    
+                    b
                 </div>
             </div>
         )
